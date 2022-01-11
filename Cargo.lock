@@ -3,5 +3,9 @@
 version = 3
 
 [[package]]
-name = "hello_os"
+name = "os"
+version = "0.1.0"
+
+[[package]]
+name = "user_lib"
 version = "0.1.0"
