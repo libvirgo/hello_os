@@ -64,7 +64,7 @@ impl AppManager {
                 i,
                 self.app_start[i],
                 self.app_start[i + 1]
-            )
+            );
         }
     }
 
